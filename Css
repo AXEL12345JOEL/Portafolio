@@ -1,0 +1,175 @@
+body{ 
+    background-image: linear-gradient(to bottom right, #33475b,
+     #0033CC, #FF77CC, 
+     rgb(255, 122, 89));
+    display: inline;
+
+    }
+*{ 
+    margin: 0px;
+    padding: 0px;
+}
+.imageny{ 
+    
+    width: 25px;
+}
+.imagenx{ 
+    width: 25px;
+}
+
+.principal2{ 
+    
+    margin-left: 0px;
+    margin-top: -340px;
+   
+
+}
+.simb{ 
+    
+    margin-left: 0px;
+    margin-top: 55px;
+   
+
+}
+
+
+.nombre{ 
+    height: 0px;
+    margin-left: 270px;
+    margin-top: 5px;
+   
+}
+
+
+
+.subtitulo{ 
+    margin-top: -270px;
+    margin-left: 270px;
+    width: 500vw;
+    width: 200vh;
+
+
+}
+.parrafo{ 
+    margin-top: 5px;
+    margin-left: 270px;
+    width: 500vw;
+    width: 200vh;
+
+
+}
+
+
+.image{ 
+    width: 30vw;
+    width: 30vh;
+    margin-top:-20px;
+
+}
+
+.video1{ 
+    width: 100vw;
+    width: 60vh;
+    margin-top: 20px;
+    margin-left: 270px;
+
+}
+.mover1{ 
+    
+    margin-top: 30px;
+    margin-left: 270px;
+
+}
+.mover2{ 
+  
+    margin-top: -90px;
+    margin-left: 600px;
+
+}
+.present{ 
+  
+    margin-top: 10px;
+    margin-left: 450px;
+
+}
+
+.bordes{ 
+    
+   
+}
+
+.contenedor{ 
+    height: 100vh;
+    width: 100vw;
+    height: 100px; 
+    margin-left: 1000px;
+     width: 250px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ .tarjeta{ 
+    margin-left: 1000px;
+    height: 250px ;
+    width: 200px;
+    background-color: #101010;
+    border-radius: 10%;
+    box-shadow: 16px 14px 20px #0000008c;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    
+ }
+ 
+
+.tarjeta::before{
+    content: ""; 
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    background-image: conic-gradient(red 20deg, transparent 120deg);
+    animation: rotar 2s linear infinite;
+   
+}
+
+@keyframes rotar { 
+    from{
+        transform: rotate(0dge);
+
+    }
+    to{
+        transform: rotate(360deg);
+    }
+  }
+  .tarjeta::after{ 
+
+    content: "";
+    position: absolute;
+    height: 240px;
+    width: 190px;
+    background-color: #101010;
+
+  }
+  .editorcolor{ 
+    color: red;
+    z-index: 2;
+    background-color: transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .linky:hover{ 
+      color: blue;
+      z-index: 2;
+      background-color: transparent;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    .linkc:hover{ 
+        color: blue;
+        z-index: 2;
+        background-color: transparent;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      
+  
+
