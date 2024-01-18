@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Mi currículum</title>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<link rel="icon" href="imagenes/icono.ico">
+<link rel="stylesheet" type="text/css" href="css/personalización.css">
+
+
+</head>
+
+<body>
+	<div class="container">
+        <div class="particulas">
+          <span style="--i:11;"> </span>
+          <span style="--i:12;"> </span>
+          <span style="--i:21;"> </span>
+          <span style="--i:10;"> </span>
+          <span style="--i:10;"> </span>
+          <span style="--i:30;"> </span>
+          <span style="--i:14;"> </span>
+          <span style="--i:15;"> </span>
+          <span style="--i:11;"> </span>
+          <span style="--i:21;"> </span>
+          <span style="--i:17;"> </span>
+          <span style="--i:22;"> </span>
+          <span style="--i:20;"> </span>
+          <span style="--i:28;"> </span>
+          <span style="--i:23;"> </span>
+          <span style="--i:13;"> </span>
+          <span style="--i:29;"> </span>
+          <span style="--i:11;"> </span>
+          <span style="--i:12;"> </span>
+          <span style="--i:21;"> </span>
+          <span style="--i:10;"> </span>
+          <span style="--i:10;"> </span>
+          <span style="--i:30;"> </span>
+          <span style="--i:14;"> </span>
+          <span style="--i:15;"> </span>
+          <span style="--i:11;"> </span>
+          <span style="--i:21;"> </span>
+          <span style="--i:17;"> </span>
+          <span style="--i:22;"> </span>
+          <span style="--i:20;"> </span>
+          <span style="--i:28;"> </span>
+          <span style="--i:23;"> </span>
+          <span style="--i:13;"> </span>
+          <span style="--i:29;"> </span>
+
+
+	</div>
+	<header class="ubicar">
+		<div class="logo"> <h3> BIENVENIDO A MI PORTAFOLIO </h3><a class="imagenx" href="https://www.youtube.com/channel/UCyKWru_eVteYbxmcwLusXaw" target="_blank"><img class="imagenx" src="imagenes/you.png" alt="youtube.png" title="Ir"></a>
+		<a class="imageny" href="https://twitter.com/CruzAxeLjoeL1" target="_blank"><img class="imagenx" src="imagenes/R.png" alt="twitter.png" title="Ir"></a>
+		<a class="imagenp" href="https://www.instagram.com/" target="_blank"><img class="imagenp" src="imagenes/Instag.png" alt="instagram.png" title="Ir"></a>
+		
+		</div>
+		<nav> 
+			<a class="luces" href="HABILIT.html" class="retro1">Principal</a>
+		
+			
+		</nav>
+
+	</header>
+	
+	<div>
+	<article>
+		<section>
+			<h2 class="nombre"><b>ESTUDIANTE Y PROGRAMADORSITO</b> </h2><br>
+		</section>
+	</div>
+	</article>
+	
+	<div> <img class="image" src="imagenes/ejemplo.jpeg" alt="AxeL Cruz" title="Mini programador no expert junior" width="200px"> 
+	</div>
+	
+	<div> 
+		<h1 class="subtitulo">Axel Joel Cruz Macias 
+		</h1>
+		<p class="parrafo">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, illo ipsum facere non quam iure <br>repellendus velit repellat aliquam reiciendis sequi! Natus molestias quasi nulla eum nisi! Officia, <br> temporibus quas! Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Obcaecati dolores consectetur laboriosam deleniti quas? Eveniet natus  <br>architecto eligendi dignissimos quia accusamus tempore expedita, ducimus atque,<br> laudantium officiis illum sunt dolores?
+		</p>
+
+  
+		<header class="Subnombre">
+			<div class="mover1"> 
+				<p class=""><b>Nombre:</b><b class="ht1">Axel Joel</b></p><br>
+				<p><b>Apellidos:</b><b class="ht2">Cruz Macias</b></p><br>
+				<p><b>Telefono:</b><b class="ht3">0962619191</b></p>
+			</div>
+			<div class="mover2">
+				<p ><b>Estatus:</b><b class="ht4">Estudiante</b></p><br>
+				<p ><b>Especialidad:</b><b class="ht5">Informatico</b></p><br>
+				<p ><b>Ciudad:</b><b class="ht6">Guayaquil</b></p>
+			</div>
+				<P class="present"><b>PRESENTACION</b></P>
+			</div>
+
+			<div class="bordes">
+				<video class="video1" src="VIDEO/panaderia.mp4" controls></video>
+			</div>
+		</header>
+
+		
+		<div class="simb">
+			<b class="simbolo">mi contacto:</b>
+			<a class="al_an" href="AxmaciasCr@gmail.com
+			" target="_blank">AxmaciasCr@gmail.com<img class="gma1" src="imagenes/gmail_logo_PNG1.png" alt="gmail">
+		</div>
+				
+	</a>  
+	
+</body>
+</html>
